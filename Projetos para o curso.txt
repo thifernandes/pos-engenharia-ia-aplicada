@@ -1,0 +1,7 @@
+Plataforma de Análise de Carteira de Investimentos
+
+Construir uma plataforma web que utilize como base principal a IA para:
+1. analisar carteira de investimentos, seja de renda fixa (CDBs, RDBs, tesouro direto...) ou  variável (ações, fiis, etfs...) e apresentar gráficos e visão por segmentos.
+2. propor, de acordo com o perfil do investidor, melhores propostas de diversificação de carteira para maiores ganhos;
+3. propor uma carteira recomendada sugerindo as melhores empresas para aporte;
+4. apresentar um processo de migração da carteira do investidor para a carteira recomendada.

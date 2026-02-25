@@ -1,0 +1,16 @@
+Fundamentos de IA e LLMs para Programadores
+
+Significados:
+machine learning
+deep learning
+MCP
+Tensores
+LLMs
+
+One hot take - quando o valor de um atributo é 0 ou 1. Não tem fração de valor.
+Ex: atributos como cor, cidade, sexo...
+Não existe meia cor, meia cidade ou meio sexo.
+Já atributos como idade, altura, peso, salário, nota escolar, horas e dentre outros que possuem faixas de valores, acabam sendo necessários normalizá-los para chegar a um valor fracionário.
+
+
+Resumos:
