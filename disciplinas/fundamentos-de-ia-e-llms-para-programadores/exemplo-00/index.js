@@ -104,5 +104,3 @@ const results = predictions
     .join('\n');
 
 console.log(results);
-
-
