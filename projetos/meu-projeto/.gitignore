@@ -1,0 +1,14 @@
+# Pasta de dependências
+node_modules/
+
+package-lock.json
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Configurações locais
+.env
