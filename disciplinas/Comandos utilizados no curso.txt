@@ -1,0 +1,6 @@
+Comandos Node utilizados no curso:
+npm install - executa um script que instala os módulos necessários para rodar o projeto. São os módulos (dependências) descritas no arquivo package.json. Com a instalação é criado o diretório node modules na raiz do projeto e o arquivo package-lock.json.
+
+npm start - executa um script chamado start que inicia a aplicação e outras execuções descritas no atributo scripts do arquivo package.json.
+node index.js - inicia a aplicação através da execução do arquivo index.js
+node ci - restaura os pacotes já existentes na aplicação.
