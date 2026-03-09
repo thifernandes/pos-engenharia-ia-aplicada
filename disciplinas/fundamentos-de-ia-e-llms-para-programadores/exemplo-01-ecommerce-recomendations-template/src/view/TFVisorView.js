@@ -2,7 +2,7 @@ import { View } from './View.js';
 
 export class TFVisorView extends View {
     #weights = null;
-    #catalog = [];
+    #products = [];
     #users = [];
     #logs = [];
     #lossPoints = [];
@@ -16,12 +16,12 @@ export class TFVisorView extends View {
     renderData(data) {
 
         this.#weights = data.weights;
-        this.#catalog = data.catalog;
+        this.#products = data.products;
         this.#users = data.users;
     }
     resetDashboard() {
         this.#weights = null;
-        this.#catalog = [];
+        this.#products = [];
         this.#users = [];
         this.#logs = [];
         this.#lossPoints = [];
