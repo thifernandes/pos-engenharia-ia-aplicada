@@ -1,0 +1,5 @@
+Endereço da plataforma de estudos Anhanguera:
+https://infoprod.platosedu.io/v2/lms/login
+
+Endereço do GitHub dos exemplos:
+https://github.com/unipds-engenharia-de-ia-aplicada
