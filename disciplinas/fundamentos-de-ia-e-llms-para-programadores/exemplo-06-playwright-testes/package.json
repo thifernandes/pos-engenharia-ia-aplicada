@@ -1,0 +1,12 @@
+{
+  "name": "exemplo-06-playwright-testes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright-only tests for vanilla-js-web-app-example",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
